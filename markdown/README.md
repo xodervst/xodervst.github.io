@@ -27,7 +27,6 @@ I want to explore Artificial Intelligence and Robotics. In free time, I love pla
 
 ### Autumn 2020-2021
 
-
 - **EE 101** :  Introduction to Electrical and Electronics Engineering -  _Dr. Nandakumar Nambath Purushothaman,Dr.Sheron Figarado_
   
 - **NO101** :   National Sports Organization   -  _Unspecified_
