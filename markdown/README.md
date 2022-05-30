@@ -1,6 +1,6 @@
 # Vaibhav Singh Tomar
 
-![My Image](NEW.jpg | width = 50%)
+![My Image](xodervst.github.io/img/NEW.jpg)
     
 ***
 
